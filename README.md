@@ -1,4 +1,4 @@
-# Olá, eu sou Gabriel Montenegro
+# Olá, eu sou Gabriel de Santana
 
 Estudante de Tecnologia da Informação com foco em Cybersecurity.
 
